@@ -1,0 +1,8 @@
+{
+	"css.lint.unknownAtRules": "ignore",
+	"files.autoSave": "onWindowChange",
+	"files.trimTrailingWhitespace": true,
+	"editor.renderWhitespace": "all",
+	"files.insertFinalNewline": true,
+	"files.trimFinalNewlines": true
+}
